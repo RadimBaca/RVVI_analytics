@@ -1,0 +1,12 @@
+# This file was automatically generated
+type: mssql
+name: rvvi
+options:
+  user: rvvi_evidence
+  authenticationType: default
+  database: rvvi2023_final
+  server: dbsys.cs.vsb.cz\sqldb
+  trust_server_certificate: true
+# Advanced Options, you probably don't want to change this
+buildOptions:
+  batchSize: 1000000
