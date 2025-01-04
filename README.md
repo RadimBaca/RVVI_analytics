@@ -5,11 +5,11 @@
 ```bash
 git clone https://github.com/RadimBaca/RVVI_analytics
 npm install
-npm run sources
-npm run dev -- --host 0.0.0.0
+npm run sources 
+npm run dev
 ```
 
-Datovy zdroj RVVI přistupuje k privátní SQL Server databázi. Pro přístup k datům je nutné mít přístupové údaje. Jedná se o testovou databázi, která byla využívána v rámci předmětu Databázové systémy I v roce 2024/25 na katedře informatiky VŠB-TU Ostrava. 
+Datovy zdroj RVVI přistupuje k privátní SQL Server databázi. Pro přístup k datům je nutné mít přístupové údaje. Jedná se o testovou databázi, která byla využívána v rámci předmětu [Databázové systémy I](https://dbedu.cs.vsb.cz/cs/SubjectsInYear/571/344) v roce 2024/25 na katedře informatiky VŠB-TU Ostrava. 
 
 
 ## Evidence
