@@ -1,6 +1,7 @@
 {
   "name": "my-evidence-project",
   "version": "0.0.1",
+  "build": "EVIDENCE_BUILD_DIR=./build/rvvi evidence build",
   "scripts": {
     "build": "evidence build",
     "build:strict": "evidence build:strict",
